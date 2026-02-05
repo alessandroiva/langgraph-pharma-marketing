@@ -50,12 +50,6 @@ streamlit run src/app.py
 
 Then open http://localhost:8501
 
-### Run Demo Script
-
-```bash
-python demo.py
-```
-
 ## 💡 How to Use the App
 
 1. **Start the app** - Run `streamlit run src/app.py`
@@ -130,7 +124,6 @@ Or be explicit:
 │       └── settings.py            # Configuration
 ├── data/
 │   └── drug_notices.json          # 10 pharmaceutical products
-├── demo.py                        # Demo script
 └── pyproject.toml                 # Dependencies
 ```
 
